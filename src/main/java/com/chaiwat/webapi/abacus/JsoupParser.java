@@ -42,7 +42,7 @@ public class JsoupParser {
 				System.out.println("Data: " + e.data());
 				System.out.println("Attributes: " + e.attributes());
 				System.out.println("HTML: " + e.html());
-				System.out.println("Text: " + e.text());
+				System.out.println("This is what you are looking for ---> " + e.text());
 			}
 		} catch (IOException e) {
 			e.printStackTrace();

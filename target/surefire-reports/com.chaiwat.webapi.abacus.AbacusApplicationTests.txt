@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.chaiwat.webapi.abacus.AbacusApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.415 sec - in com.chaiwat.webapi.abacus.AbacusApplicationTests

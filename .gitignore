@@ -24,5 +24,8 @@ hs_err_pid*
 #IDEA files
 .idea
 
+#Mac .DS_Store file
+.DS_Store
+
 # Maven target files
 target/*
